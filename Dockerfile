@@ -1,4 +1,4 @@
-FROM dawn001/z_mirror:hk_latest
+FROM animesh2002/hrd:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
